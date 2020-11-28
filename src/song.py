@@ -1,6 +1,6 @@
-class: Song():
+class Song :
     def __init__(self, title, artist, genre)
-        self.title = 
-        self.artist =
-        self.genre = 
+        self.title = title
+        self.artist = artist
+        self.genre = genre
         pass
